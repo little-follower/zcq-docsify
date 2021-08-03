@@ -5,4 +5,4 @@
 > 今天我要给大家分享的是Springframework之SpringMVC！
 
 [GitHub](https://github.com/zjcscut/spring-boot-guide)
-[走你~](#Spring)
+[走你~](#SpringMVC)
