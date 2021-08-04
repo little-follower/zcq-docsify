@@ -1,6 +1,6 @@
 # MVC模型的由来
 
-在SpringMVC还没有普及或者诞生之前，大多数的Java程序猿（当然当时我可能还在上初中/dog）开发还是基于两个Model，哪两个Model呢？
+在SpringMVC还没有普及或者诞生之前，大多数的Java程序猿（当然当时我可能还在上初中:koala:）开发还是基于两个Model，哪两个Model呢？
 
 ## Model 1 模型
 
@@ -24,7 +24,7 @@
 
 ## Model 2 模型
 
-**Model 2**：是基于MVC架构的设计模式。  在Model 2架构中，**Servlet**作为前端控制器，负责接收客户端发送的请求  在**Servlet**中只包含控制逻辑和简单的前端处理； 后端JavaBean来完成实际的逻辑处理; 最后，转发到相应的JSP页面处理显示逻辑。
+**Model 2**：是基于MVC架构的模式。  在Model 2架构中，**Servlet**作为前端控制器，负责接收客户端发送的请求  在**Servlet**中只包含控制逻辑和简单的前端处理； 后端JavaBean来完成实际的逻辑处理; 最后，转发到相应的JSP页面处理显示逻辑。
 
 简单概括：Java Bean(*Model*) + JSP(*View*) + Servlet(*Controller*） 
 
