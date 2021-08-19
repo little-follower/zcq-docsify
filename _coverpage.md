@@ -4,5 +4,5 @@
 
 > 今天我要给大家分享的是Springframework之SpringMVC！
 
-[GitHub](https://github.com/zjcscut/spring-boot-guide)
-[走你~](#SpringMVC)
+[Github](https://gitee.com/zt888/springmvc-docsify)
+[走你~](/spring-mvc-guide/springmvc-origin#MVC模型的由来)
