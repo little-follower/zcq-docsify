@@ -4,5 +4,5 @@
 
 
 [Gitee](https://gitee.com/zt888/openai-share.git)
-[Get Start](/openAI/openAI)
+[Get Start](/openai/OpenAI)
 
