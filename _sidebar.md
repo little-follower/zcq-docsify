@@ -1,7 +1,6 @@
-* [OPEN AI](openai/OpenAI.md)
-* [SpringMVC概述](spring-mvc-guide/springmvc-overview.md)
-* [SpringMVC环境搭建介绍](spring-mvc-guide/springmvc-architecture.md)
-* [SpringMVC请求处理流程](spring-mvc-guide/springmvc-process.md)
- * [SpringMVC重要组件](spring-mvc-guide/springmvc-component.md)
- * [SpringMVC源码分析](spring-mvc-guide/springmvc-source-code-analysis.md)
+* [Open Chat-Gpt 3.5的使用和测试](openai/OpenAI.md)
+* [CodeGeeX的使用和测试](openai/CodeGeex.md)
+* [BingChat Copilot的使用和测试](openai/Copilot.md)
+ * [百度 文心一言的使用和测试](openai/wenxinyiyan.md)
+  * [个人使用总结](openai/openaiUse.md)
 
