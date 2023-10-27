@@ -1,4 +1,4 @@
-# [Open Chat-Gpt 3.5](https://chat.openai.com/)
+# [OpenChat-Gpt3.5](https://chat.openai.com/)
 ![image.png](/img/gpt.png)
 
 > 1. **注册方法与使用**请参考这个[链接](https://mp.weixin.qq.com/s/Vdw3WJigk4XAgRAuuOCxtg)进行创建 & [VPN](http://ww2.xsus.buzz/) 请参考github上面的教程
